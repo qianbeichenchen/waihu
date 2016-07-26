@@ -1,0 +1,27 @@
+body #Phone {
+	display:none;
+}
+a{
+	text-decoration:none;
+}
+.container{
+      width: 80%;
+      margin: 100px auto;
+      border: 1px solid #eee;
+      padding: 10px;
+}
+.form-group,.form-inline{
+      padding:10px;
+}
+label{
+      text-align: right;
+      width: 150px;
+      padding: 10px;
+}
+.form-inline .form-control{
+	display:inline-block;
+	width:200px;
+}
+body .btn{
+	margin:10px;
+}
